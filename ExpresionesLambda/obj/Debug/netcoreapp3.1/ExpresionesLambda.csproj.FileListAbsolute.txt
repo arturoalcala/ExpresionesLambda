@@ -1,0 +1,13 @@
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.exe
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.deps.json
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.runtimeconfig.json
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.runtimeconfig.dev.json
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.dll
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.pdb
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.csprojAssemblyReference.cache
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.dll
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.pdb
+C:\Users\alvin\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.genruntimeconfig.cache
